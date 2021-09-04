@@ -1,4 +1,5 @@
-# Title: iOS Update Blocklist
+! Title: block-iOS
+! Description: Block iOS update
 0.0.0.0 appldnld.apple.com 
 0.0.0.0 gdmf.apple.com 
 0.0.0.0 mesu.apple.com 
